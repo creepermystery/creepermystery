@@ -18,4 +18,4 @@
 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-Maroon?logo=Debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-800000?logo=Debian&logoColor=white)
