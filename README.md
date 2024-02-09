@@ -4,7 +4,7 @@
 
 [![Rust](https://img.shields.io/badge/Rust-E43A25?logo=rust&logoColor=black)](https://rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=gold)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-3776AB?logo=C++&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-3776AB?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ## Web
 
