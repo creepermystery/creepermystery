@@ -17,6 +17,6 @@
 
 ## Systèmes d'exploitation
 
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
+[![Arch](https://img.shields.io/badge/Arch-ffffff?logo=ArchLinux)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-800000?logo=Debian&logoColor=white)](https://www.debian.org/index.fr.html)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
